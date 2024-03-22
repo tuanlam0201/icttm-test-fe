@@ -1,4 +1,3 @@
-![Frame 1913](https://github.com/tuanlam0201/icttm-test-fe/assets/163503189/45f7c2d9-f8eb-41d8-a25b-92a488bd578b)# icttm-test-fe
 
 I - Requirements:
 
